@@ -1,2 +1,1 @@
-# Test
-Test thử thôi
+Chưa biết xài git
